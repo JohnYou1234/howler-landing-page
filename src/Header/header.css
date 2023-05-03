@@ -1,0 +1,52 @@
+.header-container {
+    background-color: #9B4FE1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    box-sizing: border-box; /* make sure padding and borders don't increase width */
+  }
+  
+  .header-title {
+    color: #FFFFFF;
+    margin: 0;
+    width: 20%; /* adjust the width as needed */
+    text-align: left; /* align the title to the left */
+  }
+  
+  .github-link {
+    display: flex;
+    align-items: center;
+    color: #FFD700;
+    text-decoration: none;
+    width: 20%; /* adjust the width as needed */
+    justify-content: flex-end; /* align the link to the right */
+  }
+  
+  .github-icon {
+    margin-right: 0.5rem;
+  }
+  
+  .nav-links {
+    display: flex;
+    width: 60%; /* adjust the width as needed */
+    justify-content: center; /* center the links within the container */
+  }
+  
+  .nav-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 2rem; /* add extra margin to the right */
+  }
+  
+  .nav-link:last-child {
+    margin-right: 0; /* remove margin from the last link */
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  

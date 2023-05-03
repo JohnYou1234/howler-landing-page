@@ -1,0 +1,53 @@
+
+.post {
+    height: fit-content;
+    width: 350px;
+    padding: 1.5em;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    position: relative;
+    align-self: center;
+    pointer-events: auto;
+    word-break: break-word;
+}
+
+.post-link {
+    color: inherit;
+    text-decoration: none;
+    pointer-events: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-board {
+    width: 100%;
+    height: 100%;
+}
+
+.post p {
+    cursor: default;
+}
+.post:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+
+.content {
+    color: rgb(43, 41, 41);
+}
+
+.boardName {
+    color:rgb(73, 70, 77)
+}
+
+.date {
+    color:rgb(88, 87, 88)
+}
+.category {
+    color: rgb(56, 93, 117);
+}
+.title {
+    color: black !important;
+    font-size: 20px;
+}

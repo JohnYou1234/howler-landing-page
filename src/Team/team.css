@@ -1,0 +1,40 @@
+.team-container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .top-members {
+    margin-bottom: 2rem;
+  }
+  
+  .team-member {
+    margin: 1rem;
+    text-align: center;
+  }
+  
+  .member-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #fff;
+  }
+  
+  .team-container h3 {
+    color: #fff;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .team-subtext {
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+  }

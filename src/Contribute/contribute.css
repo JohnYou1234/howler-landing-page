@@ -1,0 +1,30 @@
+#contribute-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+#contribute-page h2 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+#contribute-page p, #contribute-page li {
+    font-size: 1.3em;
+    line-height: 1.5;
+    margin-bottom: 1em;
+}
+
+#contribute-page ul {
+    margin-left: 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+    #contribute-page h2 {
+        font-size: 2em;
+    }
+    
+    #contribute-page p {
+        font-size: 1.2em;
+    }
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    background-color: #9B4FE1;
+    padding-bottom: 100px;
+    overflow: scroll;
+    font-family: 'Inter', sans-serif !important;
+}
+  
+html, body {
+    height: 100%;
+  }
+  
+.container {
+  height: 100%;
+}
+/* hide scrollbar */
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+ h2 {
+  color: white;
+ }
+  
