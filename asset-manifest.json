@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.235a0eaf.css",
-    "main.js": "/static/js/main.1801d197.js",
-    "static/media/john.jpg": "/static/media/john.4f3607078673b56d6093.jpg",
-    "static/media/fatima.jpg": "/static/media/fatima.2fe8e8baf934a761cf1b.jpg",
-    "static/media/aaron.png": "/static/media/aaron.c2620c01a7d10c3b5cfe.png",
-    "static/media/brian.jpg": "/static/media/brian.e52724830e8daa58bd74.jpg",
-    "static/media/eliott.jpg": "/static/media/eliott.56cadf78617fecde39e6.jpg",
-    "index.html": "/index.html",
-    "main.235a0eaf.css.map": "/static/css/main.235a0eaf.css.map",
-    "main.1801d197.js.map": "/static/js/main.1801d197.js.map"
+    "main.css": "/howler-landing-page/static/css/main.235a0eaf.css",
+    "main.js": "/howler-landing-page/static/js/main.25f88a91.js",
+    "static/media/john.jpg": "/howler-landing-page/static/media/john.4f3607078673b56d6093.jpg",
+    "static/media/fatima.jpg": "/howler-landing-page/static/media/fatima.2fe8e8baf934a761cf1b.jpg",
+    "static/media/aaron.png": "/howler-landing-page/static/media/aaron.c2620c01a7d10c3b5cfe.png",
+    "static/media/brian.jpg": "/howler-landing-page/static/media/brian.e52724830e8daa58bd74.jpg",
+    "static/media/eliott.jpg": "/howler-landing-page/static/media/eliott.56cadf78617fecde39e6.jpg",
+    "index.html": "/howler-landing-page/index.html",
+    "main.235a0eaf.css.map": "/howler-landing-page/static/css/main.235a0eaf.css.map",
+    "main.25f88a91.js.map": "/howler-landing-page/static/js/main.25f88a91.js.map"
   },
   "entrypoints": [
     "static/css/main.235a0eaf.css",
-    "static/js/main.1801d197.js"
+    "static/js/main.25f88a91.js"
   ]
 }
