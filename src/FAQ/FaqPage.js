@@ -3,6 +3,10 @@ import './faq.css';
 
 const faqData = [
   {
+    question: "Why is the site not loading",
+    answer: "Currently, our site is limited by the free plan of our hosting service. If the site is unused within 15 minutes, then it will go down and needs about 1 minute to start back up the next time it is visited."
+  },
+  {
     question: "What is Howler?",
     answer: "Howler is a forum-based University of Washington application that is designed to create a safe space for students to discuss mental health issues and seek support from their peers."
   },
