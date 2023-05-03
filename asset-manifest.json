@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/howler-landing-page/static/css/main.235a0eaf.css",
-    "main.js": "/howler-landing-page/static/js/main.25f88a91.js",
+    "main.js": "/howler-landing-page/static/js/main.379f0f03.js",
     "static/media/john.jpg": "/howler-landing-page/static/media/john.4f3607078673b56d6093.jpg",
     "static/media/fatima.jpg": "/howler-landing-page/static/media/fatima.2fe8e8baf934a761cf1b.jpg",
     "static/media/aaron.png": "/howler-landing-page/static/media/aaron.c2620c01a7d10c3b5cfe.png",
@@ -9,10 +9,10 @@
     "static/media/eliott.jpg": "/howler-landing-page/static/media/eliott.56cadf78617fecde39e6.jpg",
     "index.html": "/howler-landing-page/index.html",
     "main.235a0eaf.css.map": "/howler-landing-page/static/css/main.235a0eaf.css.map",
-    "main.25f88a91.js.map": "/howler-landing-page/static/js/main.25f88a91.js.map"
+    "main.379f0f03.js.map": "/howler-landing-page/static/js/main.379f0f03.js.map"
   },
   "entrypoints": [
     "static/css/main.235a0eaf.css",
-    "static/js/main.25f88a91.js"
+    "static/js/main.379f0f03.js"
   ]
 }
