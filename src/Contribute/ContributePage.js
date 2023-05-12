@@ -20,7 +20,7 @@ function ContributePage() {
         <li>Contribute code by submitting pull requests on our <a href="https://github.com/JohnYou1234/capstone-teamU" target='_blank'>GitHub repository</a></li>
         <li>Join our community and help us improve our documentation, user interface, and more!</li>
       </ul>
-      <p>If you have any interests or questions, you can email John You, a developer still working on this project at yyoungjune@gmail.com!</p>
+      <p>If you have any interests or questions, you can email John You, a developer still working on this project, at yyoungjune@gmail.com!</p>
     </div>
   );
 }

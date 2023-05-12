@@ -8,7 +8,6 @@ function Header() {
       <a href="#" className='nav-link'><h1 className="header-title">Howler</h1></a>
       <div className="nav-links">
         <a href="#about" className="nav-link">About</a>
-        <a href="#faq" className="nav-link">FAQ</a>
         <a href="#team" className="nav-link">Who We Are</a>
         <a href="#contribute-page" className="nav-link">Contribute</a>
         <a href="https://github.com/JohnYou1234/capstone-teamU" target="_blank" rel="noopener noreferrer" className="github-link">
