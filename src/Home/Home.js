@@ -1,7 +1,11 @@
 import React from 'react';
 import './home.css';
-import { FaArrowDown } from 'react-icons/fa';
+import {FaArrowDown} from 'react-icons/fa';
 
+/**
+ * Home component, top of page, links Howler
+ * @return {Element} Home page
+ */
 function Home() {
   const handleButtonClick = () => {
     window.open('https://howler.onrender.com/board/', '_blank');
