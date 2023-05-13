@@ -5,6 +5,7 @@ import About from './About/About.js';
 import TeamPage from './Team/TeamPage.js';
 import ContributePage from './Contribute/ContributePage.js';
 import VideoPlayer from './Video/Video.js';
+import Footer from './Footer/Footer.js';
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
       <VideoPlayer />
       <TeamPage />
       <ContributePage />
+      <Footer />
     </>
   );
 }

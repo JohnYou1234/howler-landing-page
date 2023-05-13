@@ -1,0 +1,14 @@
+.footer-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-content img {
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .footer-content p {
+    font-size: 14px;
+  }
+  

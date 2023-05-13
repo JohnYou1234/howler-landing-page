@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/howler-landing-page/static/css/main.cfcbe414.css",
-    "main.js": "/howler-landing-page/static/js/main.3441b05f.js",
+    "main.css": "/howler-landing-page/static/css/main.79e2aaa2.css",
+    "main.js": "/howler-landing-page/static/js/main.213f5199.js",
     "static/media/john.jpg": "/howler-landing-page/static/media/john.4f3607078673b56d6093.jpg",
     "static/media/fatima.jpg": "/howler-landing-page/static/media/fatima.2fe8e8baf934a761cf1b.jpg",
     "static/media/aaron.png": "/howler-landing-page/static/media/aaron.c2620c01a7d10c3b5cfe.png",
@@ -13,11 +13,11 @@
     "static/media/create.JPG": "/howler-landing-page/static/media/create.e924c91e1d4044367eb3.JPG",
     "static/media/tile.png": "/howler-landing-page/static/media/tile.59eb4c7e3cb01fd8e291.png",
     "index.html": "/howler-landing-page/index.html",
-    "main.cfcbe414.css.map": "/howler-landing-page/static/css/main.cfcbe414.css.map",
-    "main.3441b05f.js.map": "/howler-landing-page/static/js/main.3441b05f.js.map"
+    "main.79e2aaa2.css.map": "/howler-landing-page/static/css/main.79e2aaa2.css.map",
+    "main.213f5199.js.map": "/howler-landing-page/static/js/main.213f5199.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfcbe414.css",
-    "static/js/main.3441b05f.js"
+    "static/css/main.79e2aaa2.css",
+    "static/js/main.213f5199.js"
   ]
 }
